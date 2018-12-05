@@ -1,6 +1,6 @@
-# Refactor Small Steps, Continued
+# Exercise: Refactor in Small Steps, Continued
 ![Emoji: Two Magnifying Glasses](https://qualitycoding.org/jrwp/wp-content/uploads/2018/12/two-magnifying-glasses-250x100.png)
 
-This is the source code for https://qualitycoding.org/refactor-small-steps-continued/
+This is the source code for [Make a Mess to Clean a Mess: Refactoring, Continued](https://qualitycoding.org/reactoring-small-steps-continued/)
 
 Download this and walk through the refactoring steps yourself.
