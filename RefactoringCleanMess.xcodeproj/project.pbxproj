@@ -26,10 +26,10 @@
 
 /* Begin PBXFileReference section */
 		487F04E221B4A44600535E40 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
-		BB1701F5DF0CE3EDB4531BF7 /* RefactorSmallStepsContinued.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RefactorSmallStepsContinued.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BB1701F5DF0CE3EDB4531BF7 /* RefactoringCleanMess.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RefactoringCleanMess.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BB1704BB696474288F8F4EA9 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		BB170754DE10D5FC10141686 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
-		BB1707DECE0CA1F7E01AA7D0 /* RefactorSmallStepsContinuedTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RefactorSmallStepsContinuedTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		BB1707DECE0CA1F7E01AA7D0 /* RefactoringCleanMessTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RefactoringCleanMessTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BB1709843B03C02BD0D9E40C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
 		BB170A55879516672424756C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BB170F36FAABEA7274566283 /* ViewControllerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerTests.swift; sourceTree = "<group>"; };
@@ -57,8 +57,8 @@
 		BB170400B1A95563100F23E7 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BB1701F5DF0CE3EDB4531BF7 /* RefactorSmallStepsContinued.app */,
-				BB1707DECE0CA1F7E01AA7D0 /* RefactorSmallStepsContinuedTests.xctest */,
+				BB1701F5DF0CE3EDB4531BF7 /* RefactoringCleanMess.app */,
+				BB1707DECE0CA1F7E01AA7D0 /* RefactoringCleanMessTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -96,9 +96,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		BB170183EC5775704907C590 /* RefactorSmallStepsContinuedTests */ = {
+		BB170183EC5775704907C590 /* RefactoringCleanMessTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BB17018865771C1D2C86112E /* Build configuration list for PBXNativeTarget "RefactorSmallStepsContinuedTests" */;
+			buildConfigurationList = BB17018865771C1D2C86112E /* Build configuration list for PBXNativeTarget "RefactoringCleanMessTests" */;
 			buildPhases = (
 				BB17055285FE02645B8D5556 /* Sources */,
 				BB17051440E68A2A26725C6A /* Frameworks */,
@@ -109,14 +109,14 @@
 			dependencies = (
 				BB170F64608C99FEA79D5C4C /* PBXTargetDependency */,
 			);
-			name = RefactorSmallStepsContinuedTests;
+			name = RefactoringCleanMessTests;
 			productName = BlogTests;
-			productReference = BB1707DECE0CA1F7E01AA7D0 /* RefactorSmallStepsContinuedTests.xctest */;
+			productReference = BB1707DECE0CA1F7E01AA7D0 /* RefactoringCleanMessTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		BB1709B237E8E8972C61DDF4 /* RefactorSmallStepsContinued */ = {
+		BB1709B237E8E8972C61DDF4 /* RefactoringCleanMess */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BB170AF525806DB28F83C082 /* Build configuration list for PBXNativeTarget "RefactorSmallStepsContinued" */;
+			buildConfigurationList = BB170AF525806DB28F83C082 /* Build configuration list for PBXNativeTarget "RefactoringCleanMess" */;
 			buildPhases = (
 				BB170C5702E6B90E9EF0D95C /* Sources */,
 				BB17022EEAE2AFD08B7E0C59 /* Frameworks */,
@@ -126,9 +126,9 @@
 			);
 			dependencies = (
 			);
-			name = RefactorSmallStepsContinued;
+			name = RefactoringCleanMess;
 			productName = Blog;
-			productReference = BB1701F5DF0CE3EDB4531BF7 /* RefactorSmallStepsContinued.app */;
+			productReference = BB1701F5DF0CE3EDB4531BF7 /* RefactoringCleanMess.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -149,7 +149,7 @@
 					};
 				};
 			};
-			buildConfigurationList = BB170EFDA283DCD0CF6208D9 /* Build configuration list for PBXProject "RefactorSmallStepsContinued" */;
+			buildConfigurationList = BB170EFDA283DCD0CF6208D9 /* Build configuration list for PBXProject "RefactoringCleanMess" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -162,8 +162,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BB1709B237E8E8972C61DDF4 /* RefactorSmallStepsContinued */,
-				BB170183EC5775704907C590 /* RefactorSmallStepsContinuedTests */,
+				BB1709B237E8E8972C61DDF4 /* RefactoringCleanMess */,
+				BB170183EC5775704907C590 /* RefactoringCleanMessTests */,
 			);
 		};
 /* End PBXProject section */
@@ -210,7 +210,7 @@
 /* Begin PBXTargetDependency section */
 		BB170F64608C99FEA79D5C4C /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = BB1709B237E8E8972C61DDF4 /* RefactorSmallStepsContinued */;
+			target = BB1709B237E8E8972C61DDF4 /* RefactoringCleanMess */;
 			targetProxy = BB170CE48A86F15BE6554ED4 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -226,7 +226,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RefactorSmallStepsContinued.app/RefactorSmallStepsContinued";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RefactoringCleanMess.app/RefactoringCleanMess";
 			};
 			name = Release;
 		};
@@ -314,7 +314,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RefactorSmallStepsContinued.app/RefactorSmallStepsContinued";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RefactoringCleanMess.app/RefactoringCleanMess";
 			};
 			name = Debug;
 		};
@@ -388,7 +388,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BB17018865771C1D2C86112E /* Build configuration list for PBXNativeTarget "RefactorSmallStepsContinuedTests" */ = {
+		BB17018865771C1D2C86112E /* Build configuration list for PBXNativeTarget "RefactoringCleanMessTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BB17045139187A131F57BC3C /* Debug */,
@@ -397,7 +397,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BB170AF525806DB28F83C082 /* Build configuration list for PBXNativeTarget "RefactorSmallStepsContinued" */ = {
+		BB170AF525806DB28F83C082 /* Build configuration list for PBXNativeTarget "RefactoringCleanMess" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BB1704315A3042C97F757F53 /* Debug */,
@@ -406,7 +406,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BB170EFDA283DCD0CF6208D9 /* Build configuration list for PBXProject "RefactorSmallStepsContinued" */ = {
+		BB170EFDA283DCD0CF6208D9 /* Build configuration list for PBXProject "RefactoringCleanMess" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BB1702D63F65157C3A39E124 /* Debug */,
