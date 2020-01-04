@@ -1,5 +1,5 @@
-Refactor Small Steps Continued by Jon Reid, https://qualitycoding.org/
-Copyright 2018 Jonathan M. Reid
+Refactoring Clean Mess by Jon Reid, https://qualitycoding.org/refactoring-clean-mess/
+Copyright 2018 Quality Coding, Inc. See LICENSE.txt
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
