@@ -33,8 +33,9 @@ final class ViewController: UIViewController {
         super.init(nibName: nil, bundle: nil)
     }
 
+    @available(*, unavailable)
     required init?(coder aDecoder: NSCoder) {
-        return nil
+        fatalError("init?(coder:) is not implemented")
     }
 
     override func viewDidLoad() {
