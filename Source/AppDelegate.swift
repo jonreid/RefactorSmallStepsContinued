@@ -1,4 +1,4 @@
-//  Refactoring Clean Mess by Jon Reid, https://qualitycoding.org/refactoring-clean-mess/
+//  Refactoring Clean Mess by Jon Reid, https://qualitycoding.org/refactoring-cleaning-mess/
 //  Copyright 2018 Quality Coding, Inc. See LICENSE.txt
 
 import UIKit
